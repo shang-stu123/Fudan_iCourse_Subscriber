@@ -31,8 +31,8 @@ MODEL_PROVIDERS: list[dict] = [
         "base_url_env": "DASHSCOPE_BASE_URL",
         "default_base_url": "https://api-inference.modelscope.cn/v1/",
         "models": [
-            "deepseek-ai/DeepSeek-V4-Pro",
-            "deepseek-ai/DeepSeek-V4-Flash"
+            "Qwen/Qwen3.5-27B",
+            "Qwen/Qwen3.5-122B-A10B"
         ],
     },
     {
